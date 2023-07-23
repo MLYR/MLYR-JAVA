@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a73c340a-ed46-44cc-abda-3be424fdebce" name="更改" comment="C_数组">
+      <change afterPath="$PROJECT_DIR$/01_Java语言基础/C_数组.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Java语言基础/code/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Java语言基础/code/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Java语言基础/code/ShuZu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Java语言基础/code/ShuZu1.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2SvuYP22KYKXRRRIuF3o4tKbExe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "F:/Code/MLYR-JAVA/01_Java语言基础/code",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDK",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Code\MLYR-JAVA\01_Java语言基础\code" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="MLYR-JAVA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="MLYR-JAVA" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="a73c340a-ed46-44cc-abda-3be424fdebce" name="更改" comment="" />
+      <created>1690039425213</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690039425213</updated>
+      <workItem from="1690039428032" duration="1389000" />
+      <workItem from="1690040839571" duration="335000" />
+      <workItem from="1690079718600" duration="424000" />
+      <workItem from="1690080198857" duration="152000" />
+      <workItem from="1690090660087" duration="797000" />
+      <workItem from="1690091516373" duration="1297000" />
+      <workItem from="1690093156773" duration="53000" />
+      <workItem from="1690093230065" duration="35000" />
+      <workItem from="1690093276159" duration="758000" />
+    </task>
+    <task id="LOCAL-00001" summary="从头开始学习Java">
+      <option name="closed" value="true" />
+      <created>1690040171546</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1690040171546</updated>
+    </task>
+    <task id="LOCAL-00002" summary="A">
+      <option name="closed" value="true" />
+      <created>1690040621444</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1690040621444</updated>
+    </task>
+    <task id="LOCAL-00003" summary="B">
+      <option name="closed" value="true" />
+      <created>1690091047854</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1690091047854</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="从头开始学习Java" />
+    <MESSAGE value="A" />
+    <MESSAGE value="B" />
+    <option name="LAST_COMMIT_MESSAGE" value="B" />
+  </component>
+</project>
